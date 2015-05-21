@@ -1,0 +1,24 @@
+{
+  "name": "spoj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "palin": "node palin.js",
+    "prime1": "node prime1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartinSandstrom/spoj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinSandstrom/spoj/issues"
+  },
+  "homepage": "https://github.com/MartinSandstrom/spoj",
+  "dependencies": {
+    "node-stopwatch": "0.0.1"
+  }
+}
